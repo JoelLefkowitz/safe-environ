@@ -1,6 +1,6 @@
 # Safe Environ
 
-Safely integrate environment variables
+Safely integrate environment variables.
 
 ## Status
 
