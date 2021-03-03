@@ -1,0 +1,7 @@
+project: safe-environ
+version: 0.1.0
+author: Joel Lefkowitz
+verbose_name: Safe environ
+html_title: Safe environ
+github_url: JoelLefkowitz/safe-environ
+apidoc_module_dir: safe_environ
