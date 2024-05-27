@@ -8,7 +8,7 @@ Safely integrate environment variables.
 ![Quality](https://img.shields.io/codacy/grade/9ef049714cfa4dea88e03900225e2719)
 ![Coverage](https://img.shields.io/codacy/coverage/9ef049714cfa4dea88e03900225e2719)
 
-## Installation
+## Installing
 
 ```bash
 pip install safe-environ
