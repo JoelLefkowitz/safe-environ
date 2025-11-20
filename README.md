@@ -2,7 +2,7 @@
 
 Safely integrate environment variables.
 
-![Review](https://img.shields.io/github/actions/workflow/status/JoelLefkowitz/safe-environ/review.yml)
+![Review](https://img.shields.io/github/actions/workflow/status/JoelLefkowitz/safe-environ/review.yaml)
 ![Version](https://img.shields.io/pypi/v/safe-environ)
 ![Downloads](https://img.shields.io/pypi/dw/safe-environ)
 ![Quality](https://img.shields.io/codacy/grade/9ef049714cfa4dea88e03900225e2719)
